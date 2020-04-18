@@ -1,0 +1,13 @@
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp.deps.json
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp.dll
+/home/ashish/Documents/docker samples/test1/app/bin/Debug/netcoreapp3.1/myapp.pdb
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.csproj.CoreCompileInputs.cache
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.dll
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.pdb
+/home/ashish/Documents/docker samples/test1/app/obj/Debug/netcoreapp3.1/myapp.genruntimeconfig.cache
